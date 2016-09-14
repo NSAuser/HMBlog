@@ -219,7 +219,20 @@ hr {
 
 .btn-github .icon {
   opacity: 0.6;
-  background: url("../images/blacktocat.png") 0 0 no-repeat;
+  background: url("http://cdn.mysitemyway.com/etc-mysitemyway/webtreats/assets/posts/112/icons/tumblr.png") 0 0 no-repeat;
+}
+
+.icon2 {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  margin: 1px 8px 0 0;
+  float: left;
+}
+
+.icon2 {
+  opacity: 0.6;
+  background: url("http://cdn.mysitemyway.com/etc-mysitemyway/webtreats/assets/posts/733/icons/new-twitter-bird.png") 0 0 no-repeat;
 }
 
 /* Links
